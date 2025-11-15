@@ -1,0 +1,27 @@
+Faire un bon code
+Bien rédiger avec intro, conclusion etc...
+bibliothèques...
+
+
+Page de garde, table des matières, table des figures -> Latex
+Table des annexes, ref bibliographique
+Graphes
+
+Mettre uniquement des extraits de code
+
+
+
+
+
+
+
+
+
+à Mettre dans biblio de gen de nombre aléatoire
+	et ce que j'ai utilisé: mersenneTwister, srand
+	
+	-> REF BIBLIOGRAPHIQUE -< page wiki sur gaussian, merseneTwister, srand, Fisher-Yates
+	
+	
+	
+ANNEXE -> Code source
